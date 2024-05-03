@@ -1,0 +1,14 @@
+D:\C# Coding\Book Shop Management System\obj\Debug\Book Shop Management System.csproj.AssemblyReference.cache
+D:\C# Coding\Book Shop Management System\obj\Debug\Book_Shop_Management_System.Billing.resources
+D:\C# Coding\Book Shop Management System\obj\Debug\Book_Shop_Management_System.Books.resources
+D:\C# Coding\Book Shop Management System\obj\Debug\Book_Shop_Management_System.Dashboard.resources
+D:\C# Coding\Book Shop Management System\obj\Debug\Book_Shop_Management_System.LogIn.resources
+D:\C# Coding\Book Shop Management System\obj\Debug\Book_Shop_Management_System.Properties.Resources.resources
+D:\C# Coding\Book Shop Management System\obj\Debug\Book_Shop_Management_System.Users.resources
+D:\C# Coding\Book Shop Management System\obj\Debug\Book Shop Management System.csproj.GenerateResource.cache
+D:\C# Coding\Book Shop Management System\obj\Debug\Book Shop Management System.csproj.CoreCompileInputs.cache
+D:\C# Coding\Book Shop Management System\bin\Debug\Book Shop Management System.exe.config
+D:\C# Coding\Book Shop Management System\bin\Debug\Book Shop Management System.exe
+D:\C# Coding\Book Shop Management System\bin\Debug\Book Shop Management System.pdb
+D:\C# Coding\Book Shop Management System\obj\Debug\Book Shop Management System.exe
+D:\C# Coding\Book Shop Management System\obj\Debug\Book Shop Management System.pdb
